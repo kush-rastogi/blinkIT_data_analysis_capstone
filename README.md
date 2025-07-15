@@ -29,7 +29,7 @@ This is a capstone data analytics project focused on Blinkit's dataset. It demon
 - Python scripting for EDA
 
 ## 📸 Screenshots
-
+![Power BI Dashboard](reports/blinkIT_dashboard.png)
 
 ## 🧾 License
 This project is for learning and portfolio purposes only.
